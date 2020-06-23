@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BluetoothController</string>
+    <string name="button_scan">Scan for devices</string>
+    <string name="button_connect">Connect</string>
+    <string name="no_device">No selected device</string>
+    <string name="button_forward">Forward</string>
+    <string name="button_backward">Backward</string>
+    <string name="button_right">Right</string>
+    <string name="button_left">Left</string>
+</resources>
